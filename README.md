@@ -1,4 +1,4 @@
-# WeatherApp
+# Celsius Weather App
 
 # Before downloading the app:
 
