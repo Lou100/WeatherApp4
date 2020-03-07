@@ -1,4 +1,4 @@
-# WeatherApp4
+# WeatherApp
 
 # Before downloading the app:
 
@@ -8,7 +8,7 @@ Make sure you have Android Studio installed.
 
 # Introduction
 
-This WeatherApp4 displays the weather in Celsius. It can be used with the Celsius To Fahrenheit converter app that is currently available in my GitHub. 
+This is a Weather App that displays the current temperature and minimum and maximum temperature of NYC, the weather can be updated by location by changing the "String CITY = "New York, US";" in MainActivity.Java. This weather app can be used with the Fahrenheit To Celsius converter app that is currently available in my GitHub. 
 
 # Getting Started
 
